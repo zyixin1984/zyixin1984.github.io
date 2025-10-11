@@ -1,56 +1,36 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Yixin Zhang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+_Professor of [College of Engineering and Applied Sciences](https://eng.nju.edu.cn), [Nanjing University](https://www.nju.edu.cn)_
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+张益昕，南京大学教授，博士生导师。江苏省 “333高层次人才工程”培养对象，南京大学智能光传感与调控技术教育部重点实验室副主任，中国仪器仪表学会光机电技术与系统集成分会常务理事，中国光学学会光机电专业委员会常务理事，中国光学学会光学教育专业委员会委员，江苏省仪器仪表学会教育教学专业委员会委员，江苏省通讯专业计量技术委员会委员。
 
-A data-driven personal website
+2006年毕业于东南大学，获学士学位。2011年毕业于南京大学，获博士学位。同年加入新加坡南洋理工大学任博士后研究员。2012年加入南京大学任助理研究员，2015年升任副教授，同年获硕士生导师资格，2021年获博士生导师资格，2022年升任教授。2013年作为主要技术贡献人和股东，参与创办南京法艾博光电科技有限公司，任技术总监。
+
+主要研究方向为分布式光纤传感系统的机理研究与仪器化设计。目前已发表195篇本领域高水平期刊或会议论文，申请/获得了177项发明/实用新型专利，其中111项已获授权，8项实现技术转让，获得省部级科技进步一等奖5项，二等奖1项。近年来，作为项目负责人或主要参与人参加了来自国家、省部委以及企业的科研项目40余项的研究工作。在微弱信号检测、高速数据采集、数字信号处理等方面均有较深的理论基础和丰富的实践经验。
+
+Prof. Zhang Yixin is a Doctoral Supervisor at Nanjing University. Prof. Zhang received his Bachelor's degree from Southeast University in 2006 and his Ph.D. degree from Nanjing University in 2011. Prof. Zhang then joined Nanyang Technological University in Singapore as a Postdoctoral Research Fellow. In 2012, Prof. Zhang returned to Nanjing University as an Assistant Researcher, was promoted to Associate Professor in 2015, and obtained the qualification of Master's Supervisor in the same year. Prof. Zhang was further qualified as a Doctoral Supervisor in 2021 and promoted to Professor in 2022. In 2013, as a key technical contributor and shareholder, Prof. Zhang co-founded Nanjing Fiber Photonics Technology Co., Ltd., where he holds the position of Technical Director.
+
+Prof. Zhang’s research focuses on the mechanistic investigation and instrumental design of distributed optical fiber sensing systems. Prof. Zhang possesses profound theoretical expertise and extensive practical experience in weak signal detection, high-speed data acquisition, and digital signal processing.
+
+社会/学术任职
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+南京大学智能光传感与调控技术教育部重点实验室深圳研发中心 副主任
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+中国仪器仪表学会 光机电技术与系统集成分会 常务理事
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+中国光学学会光机电专业委员会 委员
 
-Getting started
+中国光学学会光学教育专业委员会委员
+
+南京大学-美国微芯（Microchip）公司单片机/DSP联合实验室负责人
+
+开设课程
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+《单片微型计算机原理与接口技术》、《工程电路设计》
