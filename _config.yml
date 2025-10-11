@@ -29,14 +29,8 @@ author:
   bio              : #"Short biography for the left-hand sidebar"
   location         : "No. 8 Yuanhua Road, Qixia District, Nanjing"
   location         : "Xianlin Campus, Nanjing University"
-  employer: 
-      name: "CEAS"
-      link: "https://eng.nju.edu.cn"
-      display: "<a href='https://eng.nju.edu.cn'>CEAS</a>"
-  uri: 
-      label: "个人主页"
-      url: "https://eng.nju.edu.cn/zyx/mainm.htm"
-      html: "<a href='https://eng.nju.edu.cn/zyx/mainm.htm'>个人主页</a>"
+  employer: '<a href="https://eng.nju.edu.cn" target="_blank">CEAS</a>'
+  uri: '<a href="https://eng.nju.edu.cn/zyx/mainm.htm" target="_blank">个人主页</a>'
   email            : "zyixin@nju.edu.cn" 
 
   # Academic websites
