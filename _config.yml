@@ -27,7 +27,7 @@ author:
   name             : "Yixin Zhang(张益昕)"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "No. 8 Yuanhua Road, Qixia District, Nanjing/Xianlin Campus, Nanjing University"
+  location         : "No. 8 Yuanhua Road, Qixia District, Nanjing\nXianlin Campus, Nanjing University"
   employer         : "CEAS"
   uri              : "https://eng.nju.edu.cn/zyx/mainm.htm"
   email            : "zyixin@nju.edu.cn" 
