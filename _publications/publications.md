@@ -1,3 +1,8 @@
+---
+permalink: /
+title: "Publications"
+author_profile: true
+---
 Journal Articles
 ===
 
