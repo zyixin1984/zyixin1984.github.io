@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/publications
+    url: /publications/
 
   - title: "Datasets"
     url: https://nju.edu.cn   
