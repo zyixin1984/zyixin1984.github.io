@@ -1,5 +1,6 @@
 ---
 permalink: /publications/publications
+collections:publications
 title: "Publications"
 author_profile: true
 ---
