@@ -1,5 +1,5 @@
 ---
-permalink: /publications/publications
+permalink: /publications/
 collection: publications
 title: "Publications"
 author_profile: true
