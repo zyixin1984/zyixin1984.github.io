@@ -12,7 +12,7 @@ main:
     url: /publications/
 
   - title: "Datasets"
-    url: https://github.com/666yansen/LR-Net-for-Weak-Vibration-Event-Location-and-Recognition-with-DAS/tree/main   
+    url: /talks/   
 
   #- title: "Teaching"
   #  url: /teaching/    
